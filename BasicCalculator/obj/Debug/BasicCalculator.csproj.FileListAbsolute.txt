@@ -1,0 +1,11 @@
+C:\Users\aljay\source\repos\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+C:\Users\aljay\source\repos\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe
+C:\Users\aljay\source\repos\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.pdb
+C:\Users\aljay\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.AssemblyReference.cache
+C:\Users\aljay\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\aljay\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.FrmBasicCalculator.resources
+C:\Users\aljay\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.Properties.Resources.resources
+C:\Users\aljay\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.GenerateResource.cache
+C:\Users\aljay\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\aljay\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.exe
+C:\Users\aljay\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.pdb
